@@ -1,10 +1,15 @@
 # git config --global user.name "BI"
 
+## Выделение текста
+
 Инструкция по работе с Git
 
 *Git chekout.*
 
 **Полужирный**
+
+## Списки
+
 
 * Element 1
 
