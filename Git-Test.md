@@ -33,16 +33,6 @@ Git diff
 git branch-команда который выводит ветки
 
 
-
-
-
-
-
-
-
-
-
-
 # git config --global user.name "BI"
 
 ## Выделение текста
